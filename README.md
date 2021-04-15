@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anonymoushackingtool/&title=Profile%20Views)
+
+### Stats ⚡️
+
 ![My stats](https://github-readme-stats.vercel.app/api?username=anonymoushackingtool&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymoushackingtool"></img>
