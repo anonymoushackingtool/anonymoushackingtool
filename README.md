@@ -18,9 +18,12 @@ Here are some ideas to get you started:
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anonymoushackingtool/&title=Profile%20Views)
 </p>
 
+![https://telegram.me/TG_Free_Bots](https://img.shields.io/badge/telegram-TG Free Bots-purple)
+
+ ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anonymoushackingtool/)
+
 ### Stats ⚡️
 
-![My stats](https://github-readme-stats.vercel.app/api?username=anonymoushackingtool&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
+![My stats](https://github-readme-stats.vercel.app/api?username=anonymoushackingtool&show_icons=true&theme=radical&include_all_commits=true)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymoushackingtool"></img>
-
