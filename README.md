@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anonymoushackingtool/&title=Profile%20Views)
 </p>
 
-![https://telegram.me/TG_Free_Bots](https://img.shields.io/badge/telegram-TG%20Free%20Bots-purple)
+![https://telegram.me/TG_Free_Bots](https://img.shields.io/badge/telegram-TG%20Free%20Bots-purple&logo=telegram)
 
  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anonymoushackingtool/)
 
