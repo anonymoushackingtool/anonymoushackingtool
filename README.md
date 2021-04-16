@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![https://telegram.me/TG_Free_Bots](https://img.shields.io/badge/telegram-TG%20Free%20Bots-purple&logo=telegram)
 
- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anonymoushackingtool/)
+ ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anonymoushackingtool/) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymoushackingtool&theme=radical&layout=compact)
 
 ### Stats ⚡️
 
