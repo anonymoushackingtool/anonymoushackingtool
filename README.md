@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
  <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anonymoushackingtool/&title=Profile%20Views">
-<img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anonymoushackingtool/&title=Profile%20Views">
   </a>
 </p>
 
