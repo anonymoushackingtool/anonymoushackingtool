@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <p align="center">
  <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anonymoushackingtool/&title=Profile%20Views">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anonymoushackingtool/&title=Profile%20Views">
-  </a>
+  </a><br>
  <a href="https://telegram.me/TG_Free_Bots">
-<img src="https://img.shields.io/badge/telegram-TG%20Free%20Bots-purple&logo=telegram">
+<img src="https://img.shields.io/badge/Telegram-TG%20Free%20Bots-purple&logo=telegram">
 </a>
 <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anonymoushackingtool/">
  <img src"https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anonymoushackingtool/">
