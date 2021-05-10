@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
+ <div>
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anonymoushackingtool/&title=Profile%20Views)
+  </div>
 </p>
 
 ![https://telegram.me/TG_Free_Bots](https://img.shields.io/badge/telegram-TG%20Free%20Bots-purple&logo=telegram)
