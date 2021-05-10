@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anonymoushackingtool/&title=Profile%20Views">
   </a><br>
  <a href="https://telegram.me/TG_Free_Bots">
-<img src="https://img.shields.io/badge/telegram-TG%20Free%20Bots-purple&logo=telegram">
-
- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anonymoushackingtool/)
+<img src="https://img.shields.io/badge/telegram-TG%20Free%20Bots-purple&logo=telegram"><br>
+</a>
+<a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anonymoushackingtool/">
+ <img src"https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anonymoushackingtool/">
 
 </a>
 </p>
