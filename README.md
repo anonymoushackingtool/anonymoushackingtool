@@ -38,6 +38,6 @@ Here are some ideas to get you started:
  --- | ---
 ### Stats ⚡️
 
-![My stats](https://github-readme-stats.vercel.app/api?username=anonymoushackingtool&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymoushackingtool&theme=radical&layout=compact)
+![My stats](https://github-readme-stats.vercel.app/api?username=anonymoushackingtool&show_icons=true&theme=radical&include_all_commits=true) | ![anonymoushackingtool's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymoushackingtool&theme=radical&layout=compact)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymoushackingtool"></img>
