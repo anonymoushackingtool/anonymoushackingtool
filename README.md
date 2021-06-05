@@ -41,3 +41,5 @@ Here are some ideas to get you started:
 ![My stats](https://github-readme-stats.vercel.app/api?username=anonymoushackingtool&show_icons=true&theme=radical&include_all_commits=true) | ![anonymoushackingtool's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymoushackingtool&theme=radical&layout=compact)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymoushackingtool"></img>
+
+![Working Time On Languages](https://github-readme-stats.vercel.app/api/wakatime?username=anonymoushackingtool&layout=compact&theme=radical)
