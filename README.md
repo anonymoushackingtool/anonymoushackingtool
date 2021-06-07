@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymoushackingtool"></img>
 
-![Working Time On Languages](https://github-readme-stats.vercel.app/api/wakatime?username=Anonymoushackingtool&layout=compact&theme=radical)
+![Working Time On Languages](https://github-readme-stats.vercel.app/api/wakatime?username=anonymoushackingtool&layout=compact&theme=radical)
