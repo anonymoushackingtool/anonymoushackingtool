@@ -25,8 +25,10 @@ Here are some ideas to get you started:
  <p align="center">
 <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anonymoushackingtool/">
  <img src"https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anonymoushackingtool/">
-
 </a>
+ 
+ <img src="https://images.app.goo.gl/T7LQm6gJJiNRCetv5">
+ 
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
